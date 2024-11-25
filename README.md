@@ -24,7 +24,7 @@
 
 **Additional Information:**
 
-- 🎂 Age: 21
+- 🎂 Age: 22
 - 🎨 Hobbies: Programming, drawing, judo, swimming
 - 🔗 LinkedIn: [AMIR TAHAR AMIOUR]([https://www.linkedin.com/in/AMIOUR](https://www.linkedin.com/in/amir-tahar-amiour-79b64a292/))
 
