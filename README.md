@@ -1,45 +1,67 @@
-👋 Hi, I’m @amiramiour
+# 👋 Hi, I’m @amiramiour
 
-Contact:
+## 📬 Contact
 
-📧 Email: amiouramirtahar@gmail.com
+- 📧 **Email**: amiouramirtahar@gmail.com  
+- 🏠 **Location**: Paris  
+- 🔗 **LinkedIn**: AMIR TAHAR AMIOUR  
 
-🏠 Address: Paris
+---
 
-Skills:
+## 💼 Experience
 
-🗣️ Languages: French (B2), English (C1), Arabic (native)
+- **Apprentice – HagerGroup** *(09/2024 - 09/2026)*  
+  Backend development engineer working primarily with PHP.
 
-💻 Programming Languages: C, Java, JavaScript, Python, Assembly
+- **Intern – A2MI Informatique** *(15/04/2024 - 31/05/2024)*  
+  Developed an extranet platform using PHP (Symfony), Vue.js, and React based on client specifications.
 
-🌐 Web Development: HTML, CSS, PHP, Node.js, Vue.js, Bootstrap, Symfony, React JS, Magento
+- **Intern – HelloChef** *(05/2023 - 06/2023)*  
+  Built a Symfony-based server infrastructure for recipe management with Vue.js for frontend interactions.
 
-🗃️ Databases: SQL, MySQL, PostgreSQL, SQLite, MongoDB
+- **Network Simulator Project** *(11/2022 - 01/2023)*  
+  Created a beginner-friendly network simulator using Java and Java Swing.
 
-💼 Operating Systems: Linux, Windows
+- **Sentiment Analysis App** *(01/2021 - 02/2021)*  
+  Developed a sentiment analysis app in Pascal for Covid-related messages.
 
-🌐 Networking: Routing & Switching, TCP/IP, OSI, Wireshark
+- **Artisan App** *(03/2022 - 05/2022)*  
+  A platform to find local artisans built using HTML, CSS, JS, React, Node.js, and MongoDB.
 
-Experience:
+---
 
-💼 Apprentice at HagerGroup (09/2024 - 09/2026): Working as a backend development engineer in PHP.
+## 🛠️ Skills
 
-💼 A2MI Informatique Internship (15/04/2024 - 31/05/2024): Developing an extranet platform using PHP with Symfony framework, Vue.js, and React, based on client specifications.
+### 👨‍💻 Programming Languages
+- C, Java, JavaScript, Python, Assembly, **TypeScript**
 
-💼 HelloChef (05/2023 - 06/2023): Web development of a Symfony-based server infrastructure for recipe management, integrating Vue.js for dynamic user interface.
+### 🌐 Web Development
+- HTML, CSS, PHP, Node.js, Vue.js, React.js, Bootstrap, Symfony, Magento  
+- **Tailwind CSS**, **GraphQL**, **Prisma**
 
-💼 Network Simulator (11/2022 - 01/2023): Developed a beginner-level network simulator in Java with Java Swing.
+### 🗃️ Databases
+- SQL, MySQL, PostgreSQL, SQLite, MongoDB
 
-💼 Sentiment Analysis Application (01/2021 - 02/2021): Developed a simple sentiment analysis application in Pascal for Covid-related messages.
+### 💼 Operating Systems
+- Linux, Windows
 
-💼 Artisan App (03/2022 - 05/2022): Developed a platform to find local artisans, using HTML, CSS, JS, React, Node.js, MongoDB.
+### 🌐 Networking
+- Routing & Switching, TCP/IP, OSI Model, Wireshark
 
-Additional Information:
+---
 
-🎂 Age: 22
+## 🌍 Languages
 
-🎨 Hobbies: Programming, drawing, judo, swimming
+- 🇫🇷 French (B2)  
+- 🇬🇧 English (C1)  
+- 🇩🇿 Arabic (Native)
 
-🔗 LinkedIn: AMIR TAHAR AMIOUR
+---
 
-Please feel free to reach out for any further details or inquiries.
+## 🎨 Hobbies
+
+Programming, Drawing, Judo, Swimming
+
+---
+
+> 📌 Feel free to reach out if you'd like to collaborate or know more about my work!
